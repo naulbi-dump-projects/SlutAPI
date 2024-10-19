@@ -1,0 +1,8 @@
+name: SlutAPI
+version: 1.0
+main: naulbimix.slutmine.slutapi.Main
+author: NaulbiMIX
+description: Уникальная система сервера SlutMine с отсутсивем прошлого говнокогда по БД
+commands:
+  rtp:
+  vrtp:

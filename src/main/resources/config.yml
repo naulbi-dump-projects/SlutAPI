@@ -1,0 +1,30 @@
+messages:
+  commands:
+    rtp:
+      usage: '&c&lРТП: &7Используйте: &e/rtp'
+      teleported: '&c&lРТП: &7Вы были &aуспешно &7телепортированы на координаты &e$x $y $z'
+      title: '&c&lРТП'
+      subtitle: '&e$x $y $z'
+    vrtp:
+      usage: '&c&lРТП: &7Используйте: &e/vrtp'
+      teleported: '&c&lРТП: &7Вы были &aуспешно &7телепортированы на координаты &e$x $y $z'
+      title: '&c&lРТП'
+      subtitle: '&e$x $y $z'
+  chat:
+    unallowsymbols: '&c&lЧАТ: &fПожалуйста используйте русские, английские символы, а так же цифры и крякозябры.'
+  inventory:
+    unallowsymbols: '&c&lИНВЕНТАРЬ: &fВ вашем инвентаре был обнаружен предмет с непонятными символами!'
+settings:
+  perms:
+    vrtp: 'slutmine.vrtp'
+    rtp: 'slutmine.rtp'
+  rtp:
+    message: true
+    title: true
+    coords: 500
+    world: 'world'
+  vrtp:
+    message: true
+    title: true
+    coords: 1500
+    world: 'world'
